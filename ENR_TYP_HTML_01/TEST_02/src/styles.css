@@ -1,0 +1,13 @@
+/*
+In this box you write your CSS
+*/
+body {
+  text-align: center;
+}
+p {
+  font-family: helvetica, arial, sans-serif;
+}
+h1 {
+  color: red;
+  font-size: 30px;
+}
